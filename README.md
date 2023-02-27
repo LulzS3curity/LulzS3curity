@@ -1,5 +1,5 @@
 <h1 align="center">  <em><strong>Hiding in ur nans basement since 2000 👵🏼</strong></em></h1>
-<h2 align="center">  <em><strong>The internet is a battlefield, and every keystroke is a weapon.</strong></em></h1>
+<h2 align="center">  <em><strong>"The internet is a battlefield, and every keystroke is a weapon."</strong></em></h1>
 
 
 
