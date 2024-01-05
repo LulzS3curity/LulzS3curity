@@ -1,4 +1,4 @@
-<h1 align="center">  <em><strong>Hiding in ur nans basement since 2000 👵🏼</strong></em></h1>
+<h1 align="center">  <em><strong>Welcome to my Github</strong></em></h1>
 
 
 <p align="center"><img src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif" width="500px" height="600px"></p> 
