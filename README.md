@@ -1,9 +1,7 @@
 <h1 align="center">  <em><strong>Welcome to my Github!!!</strong></em></h1>
 
-
-<p align="center"><img src="https://media1.tenor.com/m/WGnovQpg92gAAAAC/cejm-cavalcade.gif" width="500px" height="600px"></p> 
-  
-
+- 🔭 I’m currently working on improving my ASP.NET knowledge as well as developing a screenshot and video hosting service for Gamers on Windows
+- 🌱 I’m currently learning about distributed systems and frontend technologies like Vite 
 
 
 
