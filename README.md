@@ -1,7 +1,7 @@
 ### About
 
 - 🔭 Working on improving my ASP.NET knowledge as well as developing a screenshot and video hosting service for Gamers on Windows
-- 🌱 I’m currently learning about distributed systems and frontend technologies like Vite
+- 🌱 I’m currently working on advanced knowledge of designing distributed systems
 - 😄 Working part time on the Witcher 3 expansion Sands of Ofir
 
 
