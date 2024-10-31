@@ -3,8 +3,6 @@
 - 🔭 Working on improving my overall ASP.NET knowledge as well as developing a screenshot and video hosting service for Gamers on Windows
 - ⚡ I am working on adding GoLang to my tech stack to enhance my skills and broaden my knowledge.
 - 🌱 I’m currently working on advanced knowledge of designing distributed systems using ASP.NET and Kubernetes / Docker
-- 😄 Working part time on the Witcher 3 expansion "Revenge of Ofir"
-
 
 
 
