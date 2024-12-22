@@ -1,7 +1,5 @@
 ### About
 
-- Jakub Gawel
-
 
 
 
